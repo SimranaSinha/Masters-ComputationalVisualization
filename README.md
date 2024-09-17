@@ -1,1 +1,1 @@
-# Masters-Project-ComputationalVisualization
+# Masters-Project-Computational Visualization
