@@ -9,7 +9,6 @@ Visulizing the dataset in the following Graphs:
 - Multivariate Encoding
 - Scatter Plot
 
-
 # Task 2: [Visualing Earthquake using Datawrappper](datawrapper_Earthquake.png)
 
 
