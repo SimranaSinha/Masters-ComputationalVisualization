@@ -10,6 +10,6 @@ Visulizing the dataset in the following Graphs:
 - Scatter Plot
 
 
-# Task 2:
+# Task 2: [Visualing Earthquake using Datawrappper](datawrapper_Earthquake.png)
 
 
