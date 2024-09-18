@@ -1,6 +1,6 @@
 # Masters-Project-Computational Visualization
 
-# Task 1: Visual Encoding and Visualization Using Python [Visual Encoding and Visualization Using Python](Visual_Representation.ipynb)
+# Task 1: [Visual Encoding and Visualization Using Python](Visual_Representation.ipynb)
 Superstore Dataset: [Dataset](Csuperstore.csv)
 Tasks perfromed:
 Visulizing the dataset in the following Graphs:
