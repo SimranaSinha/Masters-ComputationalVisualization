@@ -12,4 +12,4 @@ Visulizing the dataset in the following Graphs:
 
 # Task 2: [Visualing Earthquake using Datawrappper](datawrapper_Earthquake.png)
 
-
+# Task 3: [V](datawrapper_Earthquake.png)
